@@ -1754,3 +1754,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.03-02.59.18:500][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
 [2023.10.03-02.59.18:506][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
 [2023.10.03-02.59.18:606][876]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.10.03-02.59.54:483][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.03-02.59.54:565][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Content/BP_Projectile.uasset" SILENT=true
+[2023.10.03-02.59.54:569][594]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2023.10.03-02.59.54:570][594]LogSavePackage: Moving '../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Saved/BP_Projectile91BA41854E0BE30F36FCAA850C6DCBE7.tmp' to '../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Content/BP_Projectile.uasset'
+[2023.10.03-02.59.54:580][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms
+[2023.10.03-02.59.54:581][594]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.10.03-02.59.54:582][594]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2023.10.03-02.59.57:294][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.03-02.59.57:402][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.10.03-02.59.57:421][909]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.10.03-02.59.57:422][909]LogSavePackage: Moving '../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Saved/Minimal_Default34045BEE43E2094D5222D9BD899EFD92.tmp' to '../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.10.03-02.59.57:426][909]LogFileHelpers: All files are already saved.
+[2023.10.03-02.59.57:426][909]LogFileHelpers: Saving map 'Minimal_Default' took 0.050
+[2023.10.03-02.59.57:434][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 237 ms)
+[2023.10.03-02.59.57:436][909]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.10.03-02.59.57:436][909]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
