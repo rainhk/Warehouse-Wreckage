@@ -1770,3 +1770,332 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.03-02.59.57:434][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 237 ms)
 [2023.10.03-02.59.57:436][909]AssetCheck: New page: Asset Save: Minimal_Default
 [2023.10.03-02.59.57:436][909]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.10.03-03.04.40:243][732]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.03-03.04.40:243][732]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Content/Developers/doyeo/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.03-03.04.40:243][732]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.03-03.09.04:847][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.10.03-03.09.05:062][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/BB_D.BB_D (TFO_AutoDXT, 8x8 x1x1x1) (Required Memory Estimate: 0.072553 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.05:062][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/BG_D.BG_D (TFO_AutoDXT, 8x8 x1x1x1) (Required Memory Estimate: 0.072553 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.05:062][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/B_N.B_N (TFO_BC5, 8x8 x1x1x1) (Required Memory Estimate: 0.080497 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.05:063][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/T_MASK1.T_MASK1 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.05:163][711]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-03.09.05:172][711]LogAssetEditorSubsystem: Opening Asset editor for World /Game/IndustryPropsPack6/Maps/Showcase.Showcase
+[2023.10.03-03.09.05:172][711]Cmd: MAP LOAD FILE="../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Content/IndustryPropsPack6/Maps/Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.03-03.09.05:172][711]LightingResults: New page: Lighting Build
+[2023.10.03-03.09.05:172][711]LoadErrors: New page: Loading map: Showcase.umap
+[2023.10.03-03.09.05:204][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Barrel01_N.T_Barrel01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.05:246][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Barrel01_SRM.T_Barrel01_SRM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.05:253][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Barrel01_D.T_Barrel01_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.05:269][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/T_MASK2.T_MASK2 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.05:278][711]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-03.09.05:278][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-03.09.05:288][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Box01_SRM.T_Box01_SRM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.05:309][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Box01_D.T_Box01_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.05:316][711]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-03.09.05:316][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-03.09.05:316][711]MapCheck: New page: Map Check
+[2023.10.03-03.09.05:316][711]LightingResults: New page: Lighting Build
+[2023.10.03-03.09.05:338][711]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.03-03.09.05:350][711]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.10.03-03.09.05:377][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Box01_N.T_Box01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.05:386][711]LogStaticMesh: Display: Waiting for static meshes to be ready 0/31 (/Game/IndustryPropsPack6/Meshes/SM_WaterTank01) ...
+[2023.10.03-03.09.05:405][711]LogStaticMesh: Display: Building static mesh SM_TrafficBarrel01...
+[2023.10.03-03.09.05:433][711]LogStaticMesh: Display: Building static mesh SM_Tarp01...
+[2023.10.03-03.09.05:433][711]LogStaticMesh: Display: Building static mesh SM_WaterTank01...
+[2023.10.03-03.09.05:712][711]LogStaticMesh: Built static mesh [0.31s] /Game/IndustryPropsPack6/Meshes/SM_TrafficBarrel01.SM_TrafficBarrel01
+[2023.10.03-03.09.05:715][711]LogStaticMesh: Display: Building static mesh SM_TrafficBarrel01...
+[2023.10.03-03.09.05:776][711]LogStaticMesh: Built static mesh [0.34s] /Game/IndustryPropsPack6/Meshes/SM_Tarp01.SM_Tarp01
+[2023.10.03-03.09.05:780][711]LogStaticMesh: Display: Building static mesh SM_Tarp01...
+[2023.10.03-03.09.05:958][711]LogStaticMesh: Display: Building static mesh SM_Tarp02...
+[2023.10.03-03.09.05:964][711]LogStaticMesh: Display: Building static mesh SM_Rack02...
+[2023.10.03-03.09.05:967][711]LogStaticMesh: Built static mesh [0.25s] /Game/IndustryPropsPack6/Meshes/SM_TrafficBarrel01.SM_TrafficBarrel01
+[2023.10.03-03.09.05:976][711]LogStaticMesh: Display: Building static mesh SM_Rack01...
+[2023.10.03-03.09.06:013][711]LogStaticMesh: Built static mesh [0.05s] /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.10.03-03.09.06:015][711]LogStaticMesh: Display: Building static mesh SM_Rack02...
+[2023.10.03-03.09.06:020][711]LogStaticMesh: Display: Building static mesh SM_Newspaper02...
+[2023.10.03-03.09.06:026][711]LogStaticMesh: Display: Building static mesh SM_Newspaper03...
+[2023.10.03-03.09.06:028][711]LogStaticMesh: Display: Building static mesh SM_Pallet01...
+[2023.10.03-03.09.06:030][711]LogStaticMesh: Display: Building static mesh SM_Newspaper01...
+[2023.10.03-03.09.06:055][711]LogStaticMesh: Built static mesh [0.03s] /Game/IndustryPropsPack6/Meshes/SM_Newspaper01.SM_Newspaper01
+[2023.10.03-03.09.06:060][711]LogStaticMesh: Built static mesh [0.05s] /Game/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.10.03-03.09.06:067][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage06...
+[2023.10.03-03.09.06:075][711]LogStaticMesh: Display: Building static mesh SM_Hose01...
+[2023.10.03-03.09.06:086][711]LogStaticMesh: Built static mesh [0.07s] /Game/IndustryPropsPack6/Meshes/SM_Newspaper02.SM_Newspaper02
+[2023.10.03-03.09.06:093][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage05...
+[2023.10.03-03.09.06:100][711]LogStaticMesh: Built static mesh [0.03s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage06.SM_CartonGarbage06
+[2023.10.03-03.09.06:102][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage06...
+[2023.10.03-03.09.06:108][711]LogStaticMesh: Built static mesh [0.13s] /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.10.03-03.09.06:111][711]LogStaticMesh: Display: Building static mesh SM_Rack01...
+[2023.10.03-03.09.06:116][711]LogStaticMesh: Built static mesh [0.09s] /Game/IndustryPropsPack6/Meshes/SM_Newspaper03.SM_Newspaper03
+[2023.10.03-03.09.06:125][711]LogStaticMesh: Built static mesh [0.03s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage05.SM_CartonGarbage05
+[2023.10.03-03.09.06:127][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage05...
+[2023.10.03-03.09.06:130][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage09...
+[2023.10.03-03.09.06:136][711]LogStaticMesh: Built static mesh [0.03s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage06.SM_CartonGarbage06
+[2023.10.03-03.09.06:139][711]LogStaticMesh: Built static mesh [0.36s] /Game/IndustryPropsPack6/Meshes/SM_Tarp01.SM_Tarp01
+[2023.10.03-03.09.06:141][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage08...
+[2023.10.03-03.09.06:146][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage07...
+[2023.10.03-03.09.06:162][711]LogStaticMesh: Built static mesh [0.03s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage05.SM_CartonGarbage05
+[2023.10.03-03.09.06:164][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage04...
+[2023.10.03-03.09.06:180][711]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage04.SM_CartonGarbage04
+[2023.10.03-03.09.06:182][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage04...
+[2023.10.03-03.09.06:195][711]LogStaticMesh: Built static mesh [0.01s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage04.SM_CartonGarbage04
+[2023.10.03-03.09.06:198][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage03...
+[2023.10.03-03.09.06:212][711]LogStaticMesh: Built static mesh [0.07s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage08.SM_CartonGarbage08
+[2023.10.03-03.09.06:214][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage08...
+[2023.10.03-03.09.06:215][711]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage03.SM_CartonGarbage03
+[2023.10.03-03.09.06:217][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage03...
+[2023.10.03-03.09.06:223][711]LogStaticMesh: Built static mesh [0.11s] /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.10.03-03.09.06:226][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage02...
+[2023.10.03-03.09.06:235][711]LogStaticMesh: Built static mesh [0.28s] /Game/IndustryPropsPack6/Meshes/SM_Tarp02.SM_Tarp02
+[2023.10.03-03.09.06:237][711]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage03.SM_CartonGarbage03
+[2023.10.03-03.09.06:240][711]LogStaticMesh: Display: Building static mesh SM_Tarp02...
+[2023.10.03-03.09.06:240][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage01...
+[2023.10.03-03.09.06:252][711]LogStaticMesh: Built static mesh [0.03s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage02.SM_CartonGarbage02
+[2023.10.03-03.09.06:253][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage02...
+[2023.10.03-03.09.06:259][711]LogStaticMesh: Built static mesh [0.23s] /Game/IndustryPropsPack6/Meshes/SM_Pallet01.SM_Pallet01
+[2023.10.03-03.09.06:261][711]LogStaticMesh: Built static mesh [0.12s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage07.SM_CartonGarbage07
+[2023.10.03-03.09.06:263][711]LogStaticMesh: Display: Building static mesh SM_Pallet01...
+[2023.10.03-03.09.06:264][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage07...
+[2023.10.03-03.09.06:266][711]LogStaticMesh: Built static mesh [0.03s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage01.SM_CartonGarbage01
+[2023.10.03-03.09.06:267][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage01...
+[2023.10.03-03.09.06:275][711]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage02.SM_CartonGarbage02
+[2023.10.03-03.09.06:277][711]LogStaticMesh: Built static mesh [0.06s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage08.SM_CartonGarbage08
+[2023.10.03-03.09.06:278][711]LogStaticMesh: Display: Building static mesh SM_CartonBox01...
+[2023.10.03-03.09.06:279][711]LogStaticMesh: Display: Building static mesh SM_CartonBox02...
+[2023.10.03-03.09.06:283][711]LogStaticMesh: Built static mesh [0.01s] /Game/IndustryPropsPack6/Meshes/SM_CartonBox01.SM_CartonBox01
+[2023.10.03-03.09.06:284][711]LogStaticMesh: Display: Building static mesh SM_CartonBox01...
+[2023.10.03-03.09.06:289][711]LogStaticMesh: Built static mesh [0.01s] /Game/IndustryPropsPack6/Meshes/SM_CartonBox01.SM_CartonBox01
+[2023.10.03-03.09.06:291][711]LogStaticMesh: Display: Building static mesh SM_CartonBox03...
+[2023.10.03-03.09.06:292][711]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage01.SM_CartonGarbage01
+[2023.10.03-03.09.06:294][711]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonBox02.SM_CartonBox02
+[2023.10.03-03.09.06:295][711]LogStaticMesh: Display: Building static mesh SM_CartonBox02...
+[2023.10.03-03.09.06:311][711]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonBox02.SM_CartonBox02
+[2023.10.03-03.09.06:314][711]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonBox03.SM_CartonBox03
+[2023.10.03-03.09.06:316][711]LogStaticMesh: Display: Building static mesh SM_CartonBox03...
+[2023.10.03-03.09.06:325][711]LogStaticMesh: Display: Building static mesh SM_Box02...
+[2023.10.03-03.09.06:338][711]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonBox03.SM_CartonBox03
+[2023.10.03-03.09.06:346][711]LogStaticMesh: Display: Building static mesh SM_Box01...
+[2023.10.03-03.09.06:365][711]LogStaticMesh: Built static mesh [0.24s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage09.SM_CartonGarbage09
+[2023.10.03-03.09.06:368][711]LogStaticMesh: Display: Building static mesh SM_CartonGarbage09...
+[2023.10.03-03.09.06:377][711]LogStaticMesh: Built static mesh [0.11s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage07.SM_CartonGarbage07
+[2023.10.03-03.09.06:399][711]LogStaticMesh: Display: Building static mesh SM_Barrel01...
+[2023.10.03-03.09.06:406][711]LogStaticMesh: Display: Building static mesh SM_Box03...
+[2023.10.03-03.09.06:436][711]LogStaticMesh: Built static mesh [0.36s] /Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01
+[2023.10.03-03.09.06:440][711]LogStaticMesh: Display: Building static mesh SM_Hose01...
+[2023.10.03-03.09.06:442][711]LogStaticMesh: Built static mesh [1.01s] /Game/IndustryPropsPack6/Meshes/SM_WaterTank01.SM_WaterTank01
+[2023.10.03-03.09.06:450][711]LogStaticMesh: Display: Building static mesh SM_WaterTank01...
+[2023.10.03-03.09.06:486][711]LogStaticMesh: Built static mesh [0.22s] /Game/IndustryPropsPack6/Meshes/SM_Pallet01.SM_Pallet01
+[2023.10.03-03.09.06:487][711]LogStaticMesh: Built static mesh [0.25s] /Game/IndustryPropsPack6/Meshes/SM_Tarp02.SM_Tarp02
+[2023.10.03-03.09.06:502][711]LogStaticMesh: Display: Building static mesh SM_Barrel02...
+[2023.10.03-03.09.06:555][711]LogStaticMesh: Display: Building static mesh SM_Barrel04...
+[2023.10.03-03.09.06:581][711]LogStaticMesh: Built static mesh [0.21s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage09.SM_CartonGarbage09
+[2023.10.03-03.09.06:598][711]LogStaticMesh: Display: Building static mesh SM_Barrel03...
+[2023.10.03-03.09.06:779][711]LogStaticMesh: Built static mesh [0.34s] /Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01
+[2023.10.03-03.09.06:793][711]LogStaticMesh: Built static mesh [0.39s] /Game/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01
+[2023.10.03-03.09.06:796][711]LogStaticMesh: Display: Building static mesh SM_Barrel01...
+[2023.10.03-03.09.06:834][711]LogStaticMesh: Built static mesh [0.33s] /Game/IndustryPropsPack6/Meshes/SM_Barrel02.SM_Barrel02
+[2023.10.03-03.09.06:836][711]LogStaticMesh: Display: Building static mesh SM_Barrel02...
+[2023.10.03-03.09.06:899][711]LogStaticMesh: Built static mesh [0.30s] /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.10.03-03.09.06:904][711]LogStaticMesh: Display: Building static mesh SM_Barrel03...
+[2023.10.03-03.09.06:996][711]LogStaticMesh: Built static mesh [0.67s] /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.10.03-03.09.07:003][711]LogStaticMesh: Display: Building static mesh SM_Box02...
+[2023.10.03-03.09.07:083][711]LogStaticMesh: Built static mesh [0.74s] /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01
+[2023.10.03-03.09.07:089][711]LogStaticMesh: Display: Building static mesh SM_Box01...
+[2023.10.03-03.09.07:144][711]LogStaticMesh: Built static mesh [0.31s] /Game/IndustryPropsPack6/Meshes/SM_Barrel02.SM_Barrel02
+[2023.10.03-03.09.07:173][711]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.10.03-03.09.07:177][711]LogStaticMesh: Built static mesh [0.27s] /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.10.03-03.09.07:189][711]LogStaticMesh: Built static mesh [0.74s] /Game/IndustryPropsPack6/Meshes/SM_WaterTank01.SM_WaterTank01
+[2023.10.03-03.09.07:191][711]LogStaticMesh: Built static mesh [0.39s] /Game/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01
+[2023.10.03-03.09.07:305][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Cartonbox01_D.T_Cartonbox01_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.07:323][711]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.151326s
+[2023.10.03-03.09.07:330][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Cartonbox01_N.T_Cartonbox01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.07:351][711]LogStaticMesh: Display: Waiting for static meshes to be ready 24/31 (/Game/IndustryPropsPack6/Meshes/SM_Box02) ...
+[2023.10.03-03.09.07:362][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Cartonbox01_SRM.T_Cartonbox01_SRM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.07:621][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Hose_D.T_Hose_D (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.07:636][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Hose_N.T_Hose_N (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.07:644][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Hose_SRM.T_Hose_SRM (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.07:686][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Newspaper01_D.T_Newspaper01_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.07:689][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Newspaper01_N.T_Newspaper01_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.07:701][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Newspaper01_SRM.T_Newspaper01_SRM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.07:715][711]LogStaticMesh: Built static mesh [0.71s] /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.10.03-03.09.07:734][711]LogStaticMesh: Display: Waiting for static meshes to be ready 25/31 (/Game/IndustryPropsPack6/Meshes/SM_Box01) ...
+[2023.10.03-03.09.07:787][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Rack_N.T_Rack_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.07:788][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Rack_D.T_Rack_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.07:800][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Rack_SRM.T_Rack_SRM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.07:919][711]LogStaticMesh: Built static mesh [1.51s] /Game/IndustryPropsPack6/Meshes/SM_Box03.SM_Box03
+[2023.10.03-03.09.07:934][711]LogStaticMesh: Built static mesh [0.85s] /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01
+[2023.10.03-03.09.07:956][711]LogStaticMesh: Display: Waiting for static meshes to be ready 29/31 (/Game/IndustryPropsPack6/Meshes/SM_Barrel04) ...
+[2023.10.03-03.09.07:974][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_TrafficBarrel01_D.T_TrafficBarrel01_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.08:003][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_TrafficBarrel01_N.T_TrafficBarrel01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.08:019][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Tarp01_SRM.T_Tarp01_SRM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.08:037][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Tarp01_N.T_Tarp01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.08:048][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Tarp02_D.T_Tarp02_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.08:070][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_TrafficBarrel01_SRM.T_TrafficBarrel01_SRM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.08:673][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_WaterTank01_N.T_WaterTank01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.08:729][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_WaterTank01_D.T_WaterTank01_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.08:748][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Tarp01_D.T_Tarp01_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.08:792][711]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_WaterTank01_SRM.T_WaterTank01_SRM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.03-03.09.08:998][711]LogStaticMesh: Built static mesh [2.44s] /Game/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04
+[2023.10.03-03.09.09:391][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/37/fd/81acb46b4396d28b5fc81260666e143f0ac6.udd from '/Game/IndustryPropsPack6/Meshes/SM_Tarp01.SM_Tarp01'.
+[2023.10.03-03.09.09:478][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/30/ce/ae7f27568591b9955806142892c7762b60e9.udd from '/Game/IndustryPropsPack6/Meshes/SM_Tarp02.SM_Tarp02'.
+[2023.10.03-03.09.09:785][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/9c/23/f84865355d332a453a2941bc437f8e170ef0.udd from '/Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01'.
+[2023.10.03-03.09.09:908][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/e9/15/2a10280b25abe0ab6306d8e43acd834f5fc6.udd from '/Game/IndustryPropsPack6/Meshes/SM_CartonGarbage09.SM_CartonGarbage09'.
+[2023.10.03-03.09.09:943][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/b7/5a/42d5d5073da360f5149007201a2e56c977fa.udd from '/Game/IndustryPropsPack6/Meshes/SM_CartonGarbage08.SM_CartonGarbage08'.
+[2023.10.03-03.09.09:974][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/c5/f6/73365340cd4456f5d567d18584b7a7feaf9f.udd from '/Game/IndustryPropsPack6/Meshes/SM_CartonGarbage07.SM_CartonGarbage07'.
+[2023.10.03-03.09.10:111][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/d5/6e/f858e3edfcbffcac5d9dffaed9ffb80ba8d8.udd from '/Game/IndustryPropsPack6/Meshes/SM_CartonGarbage01.SM_CartonGarbage01'.
+[2023.10.03-03.09.10:243][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/9d/dc/b72dab8e2637bc2cea7a529bed031d88e3ad.udd from '/Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02'.
+[2023.10.03-03.09.10:620][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/8b/a3/f869e2c109290dfeede063303d7753024fed.udd from '/Game/IndustryPropsPack6/Meshes/SM_Tarp01.SM_Tarp01'.
+[2023.10.03-03.09.10:623][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/6f/de/a8cc3c1fd8b76fb3bbe780a1290b5214ab44.udd from '/Game/IndustryPropsPack6/Meshes/SM_Tarp02.SM_Tarp02'.
+[2023.10.03-03.09.10:628][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/f9/fe/ba6cce67e4b0bcae488c5724f2fe1e857876.udd from '/Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01'.
+[2023.10.03-03.09.10:630][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/db/a6/1ac306ecdabca09c0e16a8d1d9f0d462feb2.udd from '/Game/IndustryPropsPack6/Meshes/SM_Pallet01.SM_Pallet01'.
+[2023.10.03-03.09.10:632][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/0f/8e/33186c1375956c481a596ecb79324137d706.udd from '/Game/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01'.
+[2023.10.03-03.09.10:635][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/63/95/630895e26444e14a6cffe367553af5b13a14.udd from '/Game/IndustryPropsPack6/Meshes/SM_CartonGarbage09.SM_CartonGarbage09'.
+[2023.10.03-03.09.10:662][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/32/52/c7d260f77c33f40378387a05857d3563d1df.udd from '/Game/IndustryPropsPack6/Meshes/SM_CartonBox03.SM_CartonBox03'.
+[2023.10.03-03.09.10:672][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/9f/ab/c97ba8df89fec40fe1d7f11328037a350457.udd from '/Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02'.
+[2023.10.03-03.09.10:704][711]LogDerivedDataCache: C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/doyeo/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/12/0a/49a6a4540cbd09991263389fd19c70e40d38.udd from '/Game/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01'.
+[2023.10.03-03.09.10:762][711]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-03.09.10:763][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-03.09.10:780][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.10.03-03.09.10:795][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.10.03-03.09.10:811][711]LogAudio: Display: Audio Device (ID: 1) registered with world 'Showcase'.
+[2023.10.03-03.09.10:813][711]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-03.09.10:813][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.03-03.09.10:814][711]LogAIModule: Creating AISystem for world Showcase
+[2023.10.03-03.09.10:851][711]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.03-03.09.10:868][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.10.03-03.09.10:872][711]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.03-03.09.10:872][711]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2023.10.03-03.09.10:874][711]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 5.702790s (3.702790s overbudget)
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: ================================================
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Total job queries 135, among them cache hits 0 (0.00%)
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: RAM used: 7.01 KiB of 819.20 MiB budget. Usage: 0.00%
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Jobs assigned 9, completed 1 (11.11%)
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 0.68 s
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Job execution time: average 0.61 s, max 0.61 s
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Job life time (pending + execution): average 0.70 s, max 0.70
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Shader code size: average 8.613 KiB, min 8.613 KiB, max 8.613 KiB
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.70 s
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Average processing rate: 1.43 jobs/sec
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Total thread time: 0.139 s
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Total thread preprocess time: 0.025 s
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Percentage time preprocessing: 17.91%
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Effective parallelization: 0.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 100.00% of total time (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2023.10.03-03.09.11:795][713]LogShaderCompilers: Display: ================================================
+[2023.10.03-03.09.11:831][715]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.03-03.09.58:798][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.10.03-03.09.58:868][548]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-03.09.58:870][548]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.10.03-03.09.58:870][548]Cmd: MAP LOAD FILE="../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.03-03.09.58:870][548]LightingResults: New page: Lighting Build
+[2023.10.03-03.09.58:870][548]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2023.10.03-03.09.58:889][548]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-03.09.58:889][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-03.09.58:889][548]MapCheck: New page: Map Check
+[2023.10.03-03.09.58:889][548]LightingResults: New page: Lighting Build
+[2023.10.03-03.09.58:902][548]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.03-03.09.58:905][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.03-03.09.58:907][548]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-03.09.58:907][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-03.09.58:922][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.10.03-03.09.58:936][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.03-03.09.58:950][548]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2023.10.03-03.09.58:950][548]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-03.09.58:950][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.03-03.09.58:951][548]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.10.03-03.09.58:967][548]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.03-03.09.58:983][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.10.03-03.09.58:986][548]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.03-03.09.58:987][548]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2023.10.03-03.10.20:521][648]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01
+[2023.10.03-03.10.20:522][648]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01
+[2023.10.03-03.10.20:524][648]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_2
+[2023.10.03-03.10.21:987][775]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01
+[2023.10.03-03.10.21:987][775]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01
+[2023.10.03-03.10.21:989][775]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_3
+[2023.10.03-03.10.37:552][322]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01
+[2023.10.03-03.10.37:552][322]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01
+[2023.10.03-03.10.37:553][322]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_4
+[2023.10.03-03.10.38:539][385]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01
+[2023.10.03-03.10.38:539][385]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01
+[2023.10.03-03.10.38:541][385]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_5
+[2023.10.03-03.10.52:155][357]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04
+[2023.10.03-03.10.52:155][357]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04
+[2023.10.03-03.10.52:155][357]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_6
+[2023.10.03-03.10.53:566][473]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04
+[2023.10.03-03.10.53:566][473]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04
+[2023.10.03-03.10.53:568][473]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04 as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_7
+[2023.10.03-03.10.57:489][876]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.03-03.10.57:495][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.03-03.10.57:495][876]PIE: New page: PIE session: Minimal_Default (Oct 2, 2023, 7:10:57 PM)
+[2023.10.03-03.10.57:517][876]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.10.03-03.10.57:521][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003493s)
+[2023.10.03-03.10.57:521][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003533s)
+[2023.10.03-03.10.57:533][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.10.03-03.10.57:534][876]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.03-03.10.57:534][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.03-03.10.57:535][876]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.10.03-03.10.57:535][876]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2023.10.03-03.10.57:535][876]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.10.03-03.10.57:535][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.03-03.10.57:535][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.03-03.10.57:535][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.03-03.10.57:535][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.03-03.10.57:535][876]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.03-03.10.57:535][876]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.03-03.10.57:535][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.03-03.10.57:535][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.03-03.10.57:536][876]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.03-03.10.57:536][876]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.03-03.10.57:536][876]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.03-03.10.57:538][876]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.03-03.10.57:561][876]LogAudioMixer: Display: Using Audio Hardware Device 스피커 (Realtek(R) Audio)
+[2023.10.03-03.10.57:561][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.03-03.10.57:561][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.03-03.10.57:561][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.03-03.10.57:562][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.10.03-03.10.57:562][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.10.03-03.10.57:563][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.10.03-03.10.57:563][876]LogInit: FAudioDevice initialized with ID 10.
+[2023.10.03-03.10.57:563][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.10.03-03.10.57:563][876]LogAudio: Display: Audio Device (ID: 10) registered with world 'Minimal_Default'.
+[2023.10.03-03.10.57:563][876]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.03-03.10.57:566][876]LogLoad: Game class is 'GameModeBase'
+[2023.10.03-03.10.57:567][876]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.10.02-23.10.57
+[2023.10.03-03.10.57:567][876]LogWorld: Bringing up level for play took: 0.001074
+[2023.10.03-03.10.57:569][876]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.10.03-03.10.57:570][876]LogBlueprintUserMessages: [Minimal_Default_C_5] Welcome to Warehouse Wreckage!
+[2023.10.03-03.10.57:570][876]LogBlueprintUserMessages: [Minimal_Default_C_5] This is next message
+[2023.10.03-03.10.57:570][876]PIE: Server logged in
+[2023.10.03-03.10.57:571][876]PIE: Play in editor total start time 0.076 seconds.
+[2023.10.03-03.11.08:588][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-03.11.08:588][173]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.10.03-03.11.08:588][173]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.10.03-03.11.08:588][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-03.11.08:591][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.03-03.11.08:595][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.03-03.11.08:609][173]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.03-03.11.08:609][173]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.03-03.11.08:609][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.03-03.11.08:611][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.03-03.11.08:614][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.03-03.11.08:617][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.10.03-03.11.08:693][174]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.10.03-03.13.08:193][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.03-03.13.08:275][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.10.03-03.13.08:296][592]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.10.03-03.13.08:296][592]LogSavePackage: Moving '../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Saved/Minimal_Default64D12BA544F879BA11432EB477BD9660.tmp' to '../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.10.03-03.13.08:304][592]LogFileHelpers: All files are already saved.
+[2023.10.03-03.13.08:305][592]LogFileHelpers: Saving map 'Minimal_Default' took 0.057
+[2023.10.03-03.13.08:311][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 354 ms)
+[2023.10.03-03.13.08:313][592]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.10.03-03.13.08:313][592]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
