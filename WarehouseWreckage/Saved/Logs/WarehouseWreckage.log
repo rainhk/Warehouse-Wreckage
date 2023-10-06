@@ -2083,3 +2083,34 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.06-01.04.44:543][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 311 ms)
 [2023.10.06-01.04.44:545][476]AssetCheck: New page: Asset Save: Main
 [2023.10.06-01.04.44:545][476]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.10.06-01.06.12:509][565]LogEditorTransaction: Undo Break Pin Link
+[2023.10.06-01.13.19:758][526]BlueprintLog: New page: Collapse to Function
+[2023.10.06-01.13.46:398][930]LogEditorTransaction: Undo Move Node
+[2023.10.06-01.13.47:609][ 18]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2023.10.06-01.13.54:245][790]BlueprintLog: New page: Collapse to Function
+[2023.10.06-01.14.36:243][776]LogEditorTransaction: Undo Rename Function
+[2023.10.06-01.14.36:766][785]LogEditorTransaction: Undo Move Nodes
+[2023.10.06-01.14.37:205][828]LogEditorTransaction: Undo Move Nodes
+[2023.10.06-01.14.37:613][874]LogEditorTransaction: Undo Move Node
+[2023.10.06-01.14.38:196][941]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2023.10.06-01.14.38:435][960]LogEditorTransaction: Undo Move Nodes
+[2023.10.06-01.14.56:173][  2]BlueprintLog: New page: Collapse to Function
+[2023.10.06-01.15.49:286][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.10.06-01.15.49:329][263]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto2
+[2023.10.06-01.15.49:330][263]LogSavePackage: Moving '../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Saved/Main_Auto29FB3AED54DDC3BB0ADB9E0898F9A5982.tmp' to '../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto2.umap'
+[2023.10.06-01.15.49:331][263]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto2.umap is in the /Temp path, will not scan.
+[2023.10.06-01.15.49:331][263]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.061
+[2023.10.06-01.15.49:331][263]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2023.10.06-01.17.52:883][936]LogWindows: Warning: OpenClipboard failed with error code 5
+[2023.10.06-01.18.52:708][960]BlueprintLog: New page: Collapse to Function
+[2023.10.06-01.19.25:132][802]BlueprintLog: New page: Collapse to Function
+[2023.10.06-01.20.01:394][ 73]BlueprintLog: New page: Collapse to Function
+[2023.10.06-01.20.57:833][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-01.20.57:891][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.06-01.20.57:940][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.10.06-01.20.57:984][207]LogSavePackage: Moving output files for package: /Game/Main
+[2023.10.06-01.20.57:985][207]LogSavePackage: Moving '../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Saved/Main0451706742E4E33D71CDBA8050CD8BB0.tmp' to '../../../../../../Users/doyeo/Documents/GitHub/Warehouse-Wreckage/WarehouseWreckage/Content/Main.umap'
+[2023.10.06-01.20.57:990][207]LogFileHelpers: Saving map 'Main' took 0.100
+[2023.10.06-01.20.57:997][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 475 ms)
+[2023.10.06-01.20.57:999][207]AssetCheck: New page: Asset Save: Main
+[2023.10.06-01.20.57:999][207]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
